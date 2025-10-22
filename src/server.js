@@ -7,7 +7,7 @@ const port = 3000
 const var_status = "success"
 const var_full_name = "Nsiela Denzel"
 const var_email = "suhdenzo04@gmail.com"
-const var_stack = "Python/FastAPI & Node.js/Express.js"
+const var_stack = "Node.js/Express"
 var var_cat_fact = "A cat is an animal"
 
 app.get('/',(req, res) => {
